@@ -1,6 +1,8 @@
 # mikro-orm-access-em-from-entity
 ## Trying to figure out how to access the EntityManager from an entity
 
+Related GH discussion: https://github.com/mikro-orm/mikro-orm/discussions/2037
+
 ### Getting started
 ```
 npm install
